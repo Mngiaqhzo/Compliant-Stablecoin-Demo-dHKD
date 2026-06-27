@@ -1,5 +1,4 @@
 # Compliant-Stablecoin-Demo-dHKD
-# Compliant Stablecoin Demo — dHKD
 
 ## 1. Project Overview
 
