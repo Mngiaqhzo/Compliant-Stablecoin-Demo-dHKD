@@ -22,14 +22,14 @@ This project is part of my Web3 / stablecoin operations portfolio. It demonstrat
 
 | Item               | Details                                                           |
 | ------------------ | ----------------------------------------------------------------- |
-| Network            | Ethereum Sepolia Testnet                                          |
+| Environment        | Remix VM                                                          |
 | Contract Name      | CompliantStablecoin                                               |
 | Token Name         | Demo HKD Stablecoin                                               |
 | Token Symbol       | dHKD                                                              |
-| Contract Address   | `0xYOUR_CONTRACT_ADDRESS_HERE`                                    |
+| Contract Address   | `0xa9d281dA3B02DF2ffc8A1955c45d801B5726661D`                      |
 | Etherscan Link     | https://sepolia.etherscan.io/address/0xYOUR_CONTRACT_ADDRESS_HERE |
 | Source Code Status | Verified on Sepolia Etherscan                                     |
-| Deployer Wallet    | `0xYOUR_DEPLOYER_WALLET_ADDRESS_HERE`                             |
+| Deployer Wallet    | `0x4B20993Bc481177ec7E8f571ceCaE8A9e22C02db`                      |
 
 ---
 
